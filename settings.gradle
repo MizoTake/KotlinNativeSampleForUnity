@@ -1,1 +1,1 @@
-include ':app', ':common', ':KotlinNativeForUnity'
+include ':KotlinNativeForUnity'

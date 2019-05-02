@@ -1,8 +1,8 @@
 # Kotlin/Native for Unity Sample
 
-AndroidStuido 3.4
-Gradle 5.2.1
-Kotlin 1.3.31
+- AndroidStuido 3.4
+- Gradle 5.2.1
+- Kotlin 1.3.31
 
 Unity Project → https://github.com/MizoTake/KotlinNativeSample
 
